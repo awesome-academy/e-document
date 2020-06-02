@@ -1,3 +1,4 @@
 [Ruby Fresher] Training
-(*)(*) redmine
+
+redmine
 https://edu-redmine.sun-asterisk.vn/projects/ruby-e-document
